@@ -47,7 +47,7 @@ int main()
     SetTargetFPS(60);
     //--------------------------------------------------------------------------------------
 
-    // Main game loop
+    // Main loop
     while (!WindowShouldClose())    // Detect window close button or ESC key
     {
         // Update
